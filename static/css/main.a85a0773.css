@@ -216,12 +216,14 @@ button:hover {
     border: 1px solid #d8dee4;
     border-radius: 60%;
     height: 29px;
-    left: 70%;
+    top: 0;
+    left: 78%;
     position: absolute;
     text-align: center;
-    bottom: 79%;
+    bottom: 0;
     width: 28px;
     z-index: 99;
+    transform: translate(0, 42%);
 }
 
 .fa-solid,
